@@ -3,6 +3,7 @@
 using namespace std;
 
 int main(){
+cout<<"Dzejolis"<<endl;
 cout<<"Runci, runci, kaki, kaki,"<<endl;
 cout<<"Iesim abi pelu kert."<<endl;
 cout<<"Pasusim berniniem"<<endl;
